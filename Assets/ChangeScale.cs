@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CapsuleScale : MonoBehaviour
+public class ChangeScale : MonoBehaviour
 {
 	[SerializeField] private float _growthSpeed = 0.1f;
 
